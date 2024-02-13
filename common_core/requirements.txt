@@ -1,0 +1,3 @@
+common-rabbit
+pydantic
+pydantic-settings
